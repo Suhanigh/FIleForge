@@ -1,0 +1,9 @@
+PySide6
+pandas
+numpy
+scikit-learn
+psutil
+cryptography
+requests
+google-api-python-client
+google-auth-oauthlib 

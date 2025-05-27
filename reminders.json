@@ -1,0 +1,10 @@
+[
+    {
+        "file_path": "/Users/suhanighansyala/Movies",
+        "datetime": "2025-05-27T20:21:57",
+        "recurrence": "Daily",
+        "message": "dc m,sdc,m",
+        "action": "Notify Only",
+        "set_time": "2025-05-25T20:22:06"
+    }
+]
